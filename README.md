@@ -29,7 +29,7 @@ print("Square root of the number:",newton_method(b))
 ```
 
 ## Output:
-![Github logo](root.png)
+![Github logo](root.jpeg)
 
 
 ## Result:
